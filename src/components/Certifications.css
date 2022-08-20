@@ -1,0 +1,52 @@
+.certifations-heading{
+    font-family: cursive;
+    font-size: 45px;
+    font-style: italic;
+    color: slateblue;
+}
+
+.table{
+width: 700px;
+margin-left: 100px;
+border: 2px solid black;
+box-shadow: black 0px 2px 9px;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: none;
+    color: red;
+    transition: 1s;
+}
+.btn-marksheets{
+    background-color: red;
+    color: yellow;
+    border-radius: 3px;
+}
+.btn-marksheets:hover{
+   
+    background-color: lightgreen;
+    color: black;
+}
+@media screen and (max-width:450px) {
+    .certifations-heading{
+        font-family: cursive;
+        font-size: 20px;
+        font-style: italic;
+        color: slateblue;
+    }
+    .table{
+        width: 98%;
+        margin-left: 2px;
+        border: 2px solid black;
+        box-shadow: black 0px 2px 9px;
+        }
+        .btn-marksheets{
+            background-color: red;
+            color: yellow;
+            border-radius: 2px;
+            height: 30px;
+            font-size: 8px;
+        }
+}

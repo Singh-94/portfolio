@@ -1,0 +1,38 @@
+.btn-qua{
+    background-color:red;
+    color: yellow;
+    border-radius: 4px;
+    border: 1px solid black;
+    cursor: pointer;
+    box-shadow: black 0px 2px 15px;
+}
+.heading-qua{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+@media screen and (max-width:450px) {
+
+    .heading-qua{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 20px;
+}
+.btn-qua{
+    background-color:red;
+    color: yellow;
+    border-radius: 1px;
+    border: 1px solid black;
+    cursor: pointer;
+    box-shadow: black 0px 2px 5px;
+    width: 90px;
+    height: 30px;
+    font-size: 12px;
+    padding: 0;
+}
+.wrapper-Qualifications Table{
+    width: 95%;
+    font-size: 7px;
+    margin-left: 2px;
+}
+}

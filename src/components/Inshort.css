@@ -1,0 +1,34 @@
+
+
+.form-inshort{
+    width: 500px;
+    margin-left: 400px;
+    padding: 15px;
+    border-radius: 5px;
+    align-items: center;
+    border: 2px solid red;
+    background-color: deepskyblue;
+    box-shadow: darkblue 0px 2px 9px;
+    
+}
+
+@media screen and (max-width:450px) {
+    .wrapper-inshort h1 {
+        font-size: 20px;
+    }
+    .wrapper-inshort h3 {
+        font-size: 25px;
+    }
+    .form-inshort{
+        width: 95%;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 5px;
+        border-radius: 2px;
+        align-items: center;
+        border: 2px solid red;
+        background-color: deepskyblue;
+        box-shadow: darkblue 0px 2px 9px;
+        
+    }
+}

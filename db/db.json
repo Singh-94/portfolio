@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "ram",
+      "email": "json-server",
+      "pass": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "raj",
+      "email": "ashsd@fhjgjf",
+      "pass": "12345"
+    },
+    {
+      "id": 3,
+      "name": "raju",
+      "email": "ashsd@fhjgjf",
+      "pass": "12345"
+    },
+    {
+      "name": "rajiuiui",
+      "email": "raji@123",
+      "pass": "112345",
+      "id": 4
+    },
+    {
+      "name": null,
+      "pass": null,
+      "id": 5
+    }
+  ]
+}
